@@ -1,0 +1,15 @@
+Special characters are: . * [ ] % / \  ? ~ $
+
+/********************************************************
+* cd-speed
+* Report the speed of a cd-rom
+* (Also works on hard drives and other
+* devices)
+*
+* Usage:
+* cd-speed <device>
+*
+********************************************************/
+#include <iostream.h>
+#include <iomanip.h>
+/include

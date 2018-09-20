@@ -1,0 +1,11 @@
+19 #include <sys/fcntl.h>
+20 #include <sys/time.h>
+21 #include <errno.h>
+22
+23 // Read at most 10MB
+24 const unsigned int MAX_READ = (10
+25 // Size of a buffer
+26 const unsigned int BUF_SIZE = (62
+27
+28 // Buffer to be written
+29 static unsigned char buffer[BUF_S

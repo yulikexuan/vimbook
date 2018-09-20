@@ -1,0 +1,4 @@
+©
+:digraphs
+:dig
+CTRL-K + cO is ©
